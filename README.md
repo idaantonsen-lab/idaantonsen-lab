@@ -1,5 +1,5 @@
-## Hi there 👋
-- 😄 I'm Ida, a Frontend Developer student originally from Norway, but raised and live in Sweden. 
+# Hi there 👋
+😄 I'm Ida, a Frontend Developer student originally from Norway, but raised and live in Sweden. 
 
 ## About me
 - ✨ I'm passionate about building accessible and user-focused web applications, while I continuously want to improving my skills in modern frontend development.
